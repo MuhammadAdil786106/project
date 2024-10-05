@@ -1,0 +1,12 @@
+@import 'bootstrap/dist/css/bootstrap.css'; 
+@import './css/bootstrap.css'; 
+@import './css/animsition.min.css';
+@import './css/_custom.css';
+@import './css/animate.css';
+@import './css/fancybox.min.css';
+@import './css/owl.carousel.min.css';
+@import './css/style.css';
+@import './fonts/ionicons/css/ionicons.min.css';
+@import './fonts/fontawesome/css/font-awesome.min.css';
+
+
